@@ -1,5 +1,8 @@
 _repo: Military-Architecture-in-England-During-the-Middle-Ages_60518
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60518-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, A. Hamilton (Alexander Hamilton)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '32457'
     url: http://www.gutenberg.org/2009/agents/32457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60518#Military-Architecture-in-England-During-the-Middle-Ages
 gutenberg_issued: '2019-10-19'
 gutenberg_type: Text
 identifiers:
